@@ -2,6 +2,9 @@
 
 We will use https://github.com/radumarias/aws-lambda-axum-dynamodb-template and with [this](https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust) strucrure.
 
+https://dioxuslabs.com/
+https://github.com/emilk/egui
+https://leptos.dev/
 https://github.com/extism/extism
 https://www.fermyon.com/spin
 https://rustwasm.github.io/wasm-pack/installer/
