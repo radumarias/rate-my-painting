@@ -8,6 +8,7 @@ We will use https://github.com/radumarias/aws-lambda-axum-dynamodb-template and 
 - https://github.com/extism/extism
 - https://www.fermyon.com/spin
 - https://rustwasm.github.io/wasm-pack/installer/
+- https://github.com/zed-industries/zed/blob/main/crates/gpui/examples/hello_world.rs
 
 - https://fly.io/docs/rust/frameworks/axum/
 
