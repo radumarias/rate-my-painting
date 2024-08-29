@@ -35,3 +35,4 @@ ui
 - https://www.shuttle.rs/blog/2023/10/25/htmx-with-rust
 - https://github.com/zed-industries/zed/blob/main/crates/gpui/examples/hello_world.rs
 - https://github.com/emilk/egui
+- https://github.com/zed-industries/zed/blob/main/crates/gpui/README.md
