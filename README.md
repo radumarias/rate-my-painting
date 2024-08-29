@@ -8,7 +8,6 @@ We will use https://github.com/radumarias/aws-lambda-axum-dynamodb-template and 
 - https://github.com/extism/extism
 - https://www.fermyon.com/spin
 - https://rustwasm.github.io/wasm-pack/installer/
-- https://github.com/zed-industries/zed/blob/main/crates/gpui/examples/hello_world.rs
 
 - https://fly.io/docs/rust/frameworks/axum/
 
@@ -34,3 +33,5 @@ ui
 - https://github.com/DioxusLabs/dioxus
 
 - https://www.shuttle.rs/blog/2023/10/25/htmx-with-rust
+- https://github.com/zed-industries/zed/blob/main/crates/gpui/examples/hello_world.rs
+- https://github.com/emilk/egui
