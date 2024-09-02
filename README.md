@@ -4,7 +4,7 @@ An app to rate your painting by specialized reviewers and normal people. You can
 
 # Stack
 
-We will use https://github.com/radumarias/aws-lambda-axum-dynamodb-template and with [this](https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust) strucrure.
+We will use [aws-lambda-axum-dynamodb-template](https://github.com/radumarias/aws-lambda-axum-dynamodb-template) and with [this](https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust) strucrure.
 
 - https://dioxuslabs.com/
 - https://github.com/emilk/egui
